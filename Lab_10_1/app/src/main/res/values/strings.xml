@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_10_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="pActual">Posición Actual:</string>
+    <string name="Act">Activar</string>
+    <string name="Desac">Desactivar</string>
+    <string name="estPro">Estado proveedor:</string>
+</resources>
